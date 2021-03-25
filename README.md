@@ -6,7 +6,7 @@ This repo is a collection of short code snippets that include a handful of funct
 Files contain the following functions / code snippets + data 
 
 Data Cleaning 
-  - Import data frame 
+  -  Import data frame 
      Assign numeric integers to labels in a column 
      Replace a string with an number 
      convert a column of strings to integers 
